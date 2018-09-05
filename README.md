@@ -1,2 +1,2 @@
 # JK-Animated
-FED-Scripted
+FED-Animated
